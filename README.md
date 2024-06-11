@@ -1,2 +1,2 @@
 # dahircodes.com
-This is a custom bussiness website
+This is a custom website
